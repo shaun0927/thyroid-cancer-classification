@@ -1,0 +1,27 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+
+# Machine Learning Models
+xgboost>=1.7.0
+lightgbm>=3.3.0
+catboost>=1.1.0
+
+# Hyperparameter Optimization
+optuna>=3.0.0
+
+# Imbalanced Learning
+imbalanced-learn>=0.10.0
+
+# Visualization (optional)
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Utilities
+joblib>=1.2.0
+tqdm>=4.64.0
+
+# Jupyter (optional, for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
