@@ -224,25 +224,6 @@ f1_scorer = make_scorer(f1_score, pos_label=1, average='binary')
 3. **앙상블의 이점**: 단순 평균이 복잡한 스태킹보다 종종 더 나은 성능
 4. **GPU 가속**: CatBoost GPU 모드가 5-10배 속도 향상 제공
 
-## 🤝 기여하기
-
-기여를 환영합니다! Pull Request를 자유롭게 제출해 주세요.
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 라이선스가 부여됩니다 - 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
-
-## 🙏 감사의 말
-
-- 대회를 주최한 Dacon
-- 통찰력 있는 토론을 제공한 대회 참가자들
-- 훌륭한 ML 라이브러리를 제공한 오픈소스 커뮤니티
-
-## 📧 연락처
-
-- GitHub: [@shaun0927](https://github.com/shaun0927)
-- Email: [your-email@example.com]
-
 ---
 
 **참고**: 라이선스 제한으로 인해 대회 데이터 파일은 이 레포지토리에 포함되어 있지 않습니다. 공식 Dacon 대회 페이지에서 다운로드해 주세요.
